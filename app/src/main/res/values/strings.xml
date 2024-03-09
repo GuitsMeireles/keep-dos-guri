@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Google Keep dos Guri</string>
+    <string name="list_note_title">Minhas Notas</string>
 </resources>
